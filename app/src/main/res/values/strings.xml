@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">The lazy baboons</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="error_occurred">Some error occurred, please try again later.</string>
+    <string name="check_holidays_list">Check holidays list</string>
+    <string name="scan_for_attendance">Scan for attendance</string>
+    <string name="punching_attendance">Punching attendance</string>
+    <string name="holidays">Holidays</string>
+    <string name="select_domain">Select your domain</string>
+    <string name="please_enter_email">Please enter email</string>
+    <string name="please_enter_password">Please enter password</string>
+    <string name="please_enter_name">Please enter your name.</string>
+</resources>
